@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d953dfa82642d2ea6b928680b8960608",
+    "revision": "0e49c012a70c4e471d8f3eb070b5aa96",
     "url": "/monsters-rodolex/index.html"
   },
   {
-    "revision": "189df54a7e13921ea6ed",
+    "revision": "34416476272a725a53ac",
     "url": "/monsters-rodolex/static/css/main.99b165af.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-rodolex/static/js/2.9918f956.chunk.js"
   },
   {
-    "revision": "189df54a7e13921ea6ed",
-    "url": "/monsters-rodolex/static/js/main.bd9728af.chunk.js"
+    "revision": "34416476272a725a53ac",
+    "url": "/monsters-rodolex/static/js/main.e2534832.chunk.js"
   },
   {
     "revision": "a9260227d0878e8e1bc9",
